@@ -1,0 +1,21 @@
+[submodule "OMS-MS-API-GATEWAY"]
+	path = OMS-MS-API-GATEWAY
+	url = https://github.com/paulobof/OMS-MS-API-GATEWAY.git
+[submodule "OMS-MS-EUKERA-SERVER"]
+	path = OMS-MS-EUKERA-SERVER
+	url = https://github.com/paulobof/OMS-MS-EUKERA-SERVER.git
+[submodule "OMS-MS-CUSTOMER-MANAGEMENT"]
+	path = OMS-MS-CUSTOMER-MANAGEMENT
+	url = https://github.com/paulobof/OMS-MS-CUSTOMER-MANAGEMENT.git
+[submodule "OMS-MS-PRODUCT-CATALOG"]
+	path = OMS-MS-PRODUCT-CATALOG
+	url = https://github.com/paulobof/OMS-MS-PRODUCT-CATALOG.git
+[submodule "OMS-MS-ORDER-MANAGEMENT-PRODUCER"]
+	path = OMS-MS-ORDER-MANAGEMENT-PRODUCER
+	url = https://github.com/paulobof/OMS-MS-MANAGEMENT-PRODUCER.git
+[submodule "OMS-MS-ORDER-MANAGEMENT-CONSUMER"]
+	path = OMS-MS-ORDER-MANAGEMENT-CONSUMER
+	url = https://github.com/paulobof/OMS-MS-MANAGEMENT-CONSUMER.git
+[submodule "OMS-MS-ORDER-DELIVERY-LOGISTICS"]
+	path = OMS-MS-ORDER-DELIVERY-LOGISTICS
+	url = https://github.com/paulobof/OMS-MS-DELIVERY-LOGISTICS.git
