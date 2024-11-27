@@ -16,9 +16,6 @@
 [submodule "OMS-MS-ORDER-MANAGEMENT-CONSUMER"]
 	path = OMS-MS-ORDER-MANAGEMENT-CONSUMER
 	url = https://github.com/paulobof/OMS-MS-ORDER-MANAGEMENT-CONSUMER.git
-[submodule "OMS-MS-ORDER-DELIVERY-LOGISTICS"]
-	path = OMS-MS-ORDER-DELIVERY-LOGISTICS
-	url = https://github.com/paulobof/OMS-MS-ORDER-DELIVERY-LOGISTICS.git
 [submodule "OMS-MS-DELIVERY-LOGISTICS"]
 	path = OMS-MS-DELIVERY-LOGISTICS
 	url = https://github.com/paulobof/OMS-MS-DELIVERY-LOGISTICS.git
